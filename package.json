@@ -1,0 +1,11 @@
+{
+  "name": "freddy-winnipeg-transit",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
